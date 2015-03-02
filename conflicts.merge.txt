@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+#comment13
+=======
 #comment1
+>>>>>>> dev
 ### Robbie's comment ###
 
 #!/usr/bin/env python
